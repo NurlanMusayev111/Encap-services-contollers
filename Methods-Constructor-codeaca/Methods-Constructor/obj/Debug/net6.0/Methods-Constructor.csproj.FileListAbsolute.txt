@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\bin\Debug\net6.0\Methods-Constructor.exe
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\bin\Debug\net6.0\Methods-Constructor.deps.json
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\bin\Debug\net6.0\Methods-Constructor.runtimeconfig.json
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\bin\Debug\net6.0\Methods-Constructor.dll
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\bin\Debug\net6.0\Methods-Constructor.pdb
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\obj\Debug\net6.0\Methods-Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\obj\Debug\net6.0\Methods-Constructor.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\obj\Debug\net6.0\Methods-Constructor.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\obj\Debug\net6.0\Methods-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\obj\Debug\net6.0\Methods-Constructor.dll
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\obj\Debug\net6.0\refint\Methods-Constructor.dll
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\obj\Debug\net6.0\Methods-Constructor.pdb
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\obj\Debug\net6.0\Methods-Constructor.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Methods-Constructor\Methods-Constructor\obj\Debug\net6.0\ref\Methods-Constructor.dll
