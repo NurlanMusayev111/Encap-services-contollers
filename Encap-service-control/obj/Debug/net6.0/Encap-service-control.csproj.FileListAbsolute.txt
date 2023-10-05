@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\bin\Debug\net6.0\Encap-service-control.exe
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\bin\Debug\net6.0\Encap-service-control.deps.json
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\bin\Debug\net6.0\Encap-service-control.runtimeconfig.json
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\bin\Debug\net6.0\Encap-service-control.dll
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\bin\Debug\net6.0\Encap-service-control.pdb
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\obj\Debug\net6.0\Encap-service-control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\obj\Debug\net6.0\Encap-service-control.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\obj\Debug\net6.0\Encap-service-control.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\obj\Debug\net6.0\Encap-service-control.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\obj\Debug\net6.0\Encap-service-control.dll
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\obj\Debug\net6.0\refint\Encap-service-control.dll
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\obj\Debug\net6.0\Encap-service-control.pdb
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\obj\Debug\net6.0\Encap-service-control.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Encap-service-control\Encap-service-control\obj\Debug\net6.0\ref\Encap-service-control.dll
